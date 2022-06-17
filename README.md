@@ -36,7 +36,6 @@ Data must be format exactly:
 ```
 2021-12-05T15:30:00 15
 2021-12-08T18:00:00 33
-2022-03_27:00:00 2 
 ```
 Notes:
 *`yyyy-mm- ddThh:mm:ss n` where `n` denotes the number of cars counted, positive values only.
