@@ -152,7 +152,7 @@ impl CarCountsCollection {
     /// 90mins.
     pub fn print_lowest_90min_total(&self) {
         if let Some(lowest) = self.lowest_90min_total() {
-            lowest.iter().take(3).for_each(|e| {
+            lowest.iter().take(1).for_each(|e| {
                 println!("{} {}", e.1 .0.format("%Y-%m-%d Starting:%H:%M"), e.0);
             });
         } else {
