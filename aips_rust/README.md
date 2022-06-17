@@ -2,7 +2,7 @@
 
 ## Requirements:
 
-1. _This_ repo: `git clone https://github.com/alphastrata/aips`.
+1. _This_ repo: `git clone https://github.com/alphastrata/25aips`.
 2. (Rust, and its toolchain: cargo)[https://www.rust-lang.org/tools/install].
 3. A working internet connection (for cargo to fetch crates[libraries]).
 4. Some cmdline/terminal proficiency.
@@ -36,7 +36,6 @@ Data must be format exactly:
 ```
 2021-12-05T15:30:00 15
 2021-12-08T18:00:00 33
-2022-03_27:00:00 2 
 ```
 Notes:
 *`yyyy-mm- ddThh:mm:ss n` where `n` denotes the number of cars counted, positive values only.
