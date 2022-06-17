@@ -1,1 +1,16 @@
-target
+#GO
+aips_go/*.exe
+aips_go/*.exe~
+aips_go/*.dll
+aips_go/*.so
+aips_go/*.dylib
+aips_go/*.test
+aips_go/*.out
+aips_go/go.work
+
+#RUST
+aips_rust/debug/
+aips_rust/target/
+aips_rust/Cargo.lock
+**/*.rs.bk
+*.pdb
