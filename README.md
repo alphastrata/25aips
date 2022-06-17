@@ -2,7 +2,7 @@
 
 ## Requirements:
 
-1. _This_ repo: `git clone https://github.com/alphastrata/aips`.
+1. _This_ repo: `git clone https://github.com/alphastrata/25aips`.
 2. (Rust, and its toolchain: cargo)[https://www.rust-lang.org/tools/install].
 3. A working internet connection (for cargo to fetch crates[libraries]).
 4. Some cmdline/terminal proficiency.
